@@ -4,4 +4,6 @@
 
 # Link To Video
 
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/iAnyRd65SIc/1.jpg?time=1518974560290](https://www.youtube.com/watch?v=iAnyRd65SIc)
+<a href="https://youtu.be/iAnyRd65SIc
+" target="_blank"><img src="https://user-images.githubusercontent.com/13644092/36354841-51f82894-1504-11e8-9766-79539a143aa1.png" 
+alt="" width="350" height="500" border="10" /></a>
